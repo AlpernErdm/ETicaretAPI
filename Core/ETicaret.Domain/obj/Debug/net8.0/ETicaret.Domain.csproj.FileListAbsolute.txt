@@ -1,0 +1,11 @@
+C:\Users\alper\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaret.Domain\bin\Debug\net8.0\ETicaret.Domain.deps.json
+C:\Users\alper\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaret.Domain\bin\Debug\net8.0\ETicaret.Domain.dll
+C:\Users\alper\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaret.Domain\bin\Debug\net8.0\ETicaret.Domain.pdb
+C:\Users\alper\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaret.Domain\obj\Debug\net8.0\ETicaret.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaret.Domain\obj\Debug\net8.0\ETicaret.Domain.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaret.Domain\obj\Debug\net8.0\ETicaret.Domain.AssemblyInfo.cs
+C:\Users\alper\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaret.Domain\obj\Debug\net8.0\ETicaret.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaret.Domain\obj\Debug\net8.0\ETicaret.Domain.dll
+C:\Users\alper\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaret.Domain\obj\Debug\net8.0\refint\ETicaret.Domain.dll
+C:\Users\alper\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaret.Domain\obj\Debug\net8.0\ETicaret.Domain.pdb
+C:\Users\alper\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaret.Domain\obj\Debug\net8.0\ref\ETicaret.Domain.dll
