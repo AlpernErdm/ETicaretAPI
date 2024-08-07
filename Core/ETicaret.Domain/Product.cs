@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace ETicaret.Domain
 {
+    //asdadasd
     public class Product:BaseEntity
     {
         public string Name { get; set; }
