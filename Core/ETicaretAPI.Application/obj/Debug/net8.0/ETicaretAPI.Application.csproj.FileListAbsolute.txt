@@ -13,3 +13,19 @@ C:\Users\alper\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Applicati
 C:\Users\alper\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net8.0\refint\ETicaretAPI.Application.dll
 C:\Users\alper\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net8.0\ETicaretAPI.Application.pdb
 C:\Users\alper\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net8.0\ref\ETicaretAPI.Application.dll
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net8.0\ETicaretAPI.Application.deps.json
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net8.0\ETicaretAPI.Application.dll
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net8.0\ETicaretAPI.Application.pdb
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net8.0\ETicaret.Domain.dll
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net8.0\ETicaret.Domain.pdb
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net8.0\ETicaretAPI.Application.csproj.AssemblyReference.cache
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net8.0\ETicaretAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net8.0\ETicaretAPI.Application.AssemblyInfoInputs.cache
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net8.0\ETicaretAPI.Application.AssemblyInfo.cs
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net8.0\ETicaretAPI.Application.csproj.CoreCompileInputs.cache
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net8.0\ETicaretAPI.Application.sourcelink.json
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net8.0\ETicaret.BBAD6852.Up2Date
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net8.0\ETicaretAPI.Application.dll
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net8.0\refint\ETicaretAPI.Application.dll
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net8.0\ETicaretAPI.Application.pdb
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net8.0\ref\ETicaretAPI.Application.dll

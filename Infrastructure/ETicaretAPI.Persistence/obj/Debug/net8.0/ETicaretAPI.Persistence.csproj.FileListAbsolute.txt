@@ -17,3 +17,23 @@ C:\Users\alper\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI
 C:\Users\alper\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net8.0\ref\ETicaretAPI.Persistence.dll
 C:\Users\alper\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net8.0\ETicaretAPI.Persistence.runtimeconfig.json
 C:\Users\alper\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net8.0\ETicaretAPI.Persistence.genruntimeconfig.cache
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net8.0\ETicaretAPI.Persistence.deps.json
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net8.0\ETicaretAPI.Persistence.runtimeconfig.json
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net8.0\ETicaretAPI.Persistence.dll
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net8.0\ETicaretAPI.Persistence.pdb
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net8.0\ETicaret.Domain.dll
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net8.0\ETicaretAPI.Application.dll
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net8.0\ETicaretAPI.Application.pdb
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net8.0\ETicaret.Domain.pdb
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net8.0\ETicaretAPI.Persistence.csproj.AssemblyReference.cache
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net8.0\ETicaretAPI.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net8.0\ETicaretAPI.Persistence.AssemblyInfoInputs.cache
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net8.0\ETicaretAPI.Persistence.AssemblyInfo.cs
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net8.0\ETicaretAPI.Persistence.csproj.CoreCompileInputs.cache
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net8.0\ETicaretAPI.Persistence.sourcelink.json
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net8.0\ETicaret.D6939411.Up2Date
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net8.0\ETicaretAPI.Persistence.dll
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net8.0\refint\ETicaretAPI.Persistence.dll
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net8.0\ETicaretAPI.Persistence.pdb
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net8.0\ETicaretAPI.Persistence.genruntimeconfig.cache
+C:\Software Projects\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net8.0\ref\ETicaretAPI.Persistence.dll

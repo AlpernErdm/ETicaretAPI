@@ -1074,7 +1074,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "ETicaret.Domain": "1.0.0"
+          "ETicaret.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "8.0.7"
         },
         "compile": {
           "bin/placeholder/ETicaretAPI.Application.dll": {}
