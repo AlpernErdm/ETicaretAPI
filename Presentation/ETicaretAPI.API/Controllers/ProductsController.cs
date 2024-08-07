@@ -21,16 +21,20 @@ namespace ETicaretAPI.API.Controllers
         [HttpGet]
         public async Task Get()
         {
-            await _productWriteRepository.AddRangeASync(new()
-            {
-                new() { Id = Guid.NewGuid(), Name = "Product1", Price = 100, CreatedDate = DateTime.UtcNow, Stock = 10
-                },
-                new() { Id = Guid.NewGuid(), Name = "Product2", Price = 200, CreatedDate = DateTime.UtcNow, Stock = 20
-                },
-                new() { Id = Guid.NewGuid(), Name = "Product3", Price = 300, CreatedDate = DateTime.UtcNow, Stock = 30
-                },
-            });
-             await _productWriteRepository.SaveAsync();
+            //await _productWriteRepository.AddRangeASync(new()
+            //{
+            //    new() { Id = Guid.NewGuid(), Name = "Product1", Price = 100, CreatedDate = DateTime.UtcNow, Stock = 10
+            //    },
+            //    new() { Id = Guid.NewGuid(), Name = "Product2", Price = 200, CreatedDate = DateTime.UtcNow, Stock = 20
+            //    },
+            //    new() { Id = Guid.NewGuid(), Name = "Product3", Price = 300, CreatedDate = DateTime.UtcNow, Stock = 30
+            //    },
+            //});
+            // await _productWriteRepository.SaveAsync();
+            Product p = await _productReadRepository.GetByIdAsync("e0691c79-1dbe-4c33-a023-0d094fd877c4");
+            //Product p = await _productReadRepository.GetByIdAsync("e0691c79-1dbe-4c33-a023-0d094fd877c4", false);false olursa eğer değişiklik yapamam
+            p.Name = "Alperen";
+            await _productWriteRepository.SaveAsync();
         }
         [HttpGet("{id}")]
         public async Task<IActionResult> Get(string id)
