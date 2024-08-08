@@ -12,29 +12,35 @@ namespace ETicaretAPI.API.Controllers
     {
         private readonly IProductWriteRepository _productWriteRepository;
         private readonly IProductReadRepository _productReadRepository;
+        private readonly ICustomerWriteRepository _customerWriteRepository;
+        private readonly IOrderWriteRepository _orderWriteRepository;
+        private readonly IOrderReadRepository _orderReadRepository;
 
-        public ProductsController(IProductReadRepository productReadRepository, IProductWriteRepository productWriteRepository)
+        public ProductsController(IProductReadRepository productReadRepository, IProductWriteRepository productWriteRepository, IOrderWriteRepository orderWriteRepository, ICustomerWriteRepository customerWriteRepository, IOrderReadRepository orderReadRepository)
         {
             _productReadRepository = productReadRepository;
             _productWriteRepository = productWriteRepository;
+            _orderWriteRepository = orderWriteRepository;
+            _customerWriteRepository = customerWriteRepository;
+            _orderReadRepository = orderReadRepository;
         }
+        //[HttpGet]
+        //public async Task GetTracking()
+        //{
+        //    //Product p = await _productReadRepository.GetByIdAsync("e0691c79-1dbe-4c33-a023-0d094fd877c4", false);false olursa eğer değişiklik yapamam
+        //    Product p = await _productReadRepository.GetByIdAsync("e0691c79-1dbe-4c33-a023-0d094fd877c4");
+        //    p.Name = "Alperen";
+        //    await _productWriteRepository.SaveAsync();
+        //}
+
         [HttpGet]
         public async Task Get()
         {
-            //await _productWriteRepository.AddRangeASync(new()
-            //{
-            //    new() { Id = Guid.NewGuid(), Name = "Product1", Price = 100, CreatedDate = DateTime.UtcNow, Stock = 10
-            //    },
-            //    new() { Id = Guid.NewGuid(), Name = "Product2", Price = 200, CreatedDate = DateTime.UtcNow, Stock = 20
-            //    },
-            //    new() { Id = Guid.NewGuid(), Name = "Product3", Price = 300, CreatedDate = DateTime.UtcNow, Stock = 30
-            //    },
-            //});
-            // await _productWriteRepository.SaveAsync();
-            Product p = await _productReadRepository.GetByIdAsync("e0691c79-1dbe-4c33-a023-0d094fd877c4");
-            //Product p = await _productReadRepository.GetByIdAsync("e0691c79-1dbe-4c33-a023-0d094fd877c4", false);false olursa eğer değişiklik yapamam
-            p.Name = "Alperen";
-            await _productWriteRepository.SaveAsync();
+           Order order=await _orderReadRepository.GetByIdAsync("ff0aef05-2262-4db2-8cb5-f5a1d2cdfb4f ");
+           order.Address = "Kırşehir";
+           await _orderWriteRepository.SaveAsync();
+
+           
         }
         [HttpGet("{id}")]
         public async Task<IActionResult> Get(string id)
